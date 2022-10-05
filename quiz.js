@@ -3,7 +3,7 @@ const outputEl = document.querySelector("#output");
 
 const quizForm = document.querySelector(".quiz-form");
 
-const correctAnswers = ["45°", "Right Angled", "180", "3"];
+const correctAnswers = ["45°", "Right Angled", "180", "Equilateral","45","Pythagoras theorem"];
 
 function calculateScore() {
   let score = 0;
